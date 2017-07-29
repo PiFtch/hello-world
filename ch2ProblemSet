@@ -1,0 +1,4 @@
+typedef char *pstring;
+const pstring *ps;
+const pstring cstr = 0; // differs from const char *cstr = 0;
+
